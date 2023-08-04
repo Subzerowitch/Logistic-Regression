@@ -18,7 +18,7 @@
 
 **Data Preprocessing**
 
-  Before training the logistic regression model, we perform data preprocessing steps such as handling missing values and encoding categorical variables. Scaling or normalization might also be applied depending on the requirements of the model.
+  Before training the logistic regression model, we perform data preprocessing steps such as handling missing values and encoding categorical variables.
 
 **Logistic Regression Model**
 
